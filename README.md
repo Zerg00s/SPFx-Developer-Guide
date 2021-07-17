@@ -25,7 +25,7 @@ npm install --global gulp@4.0.2
 ```
 git clone https://<GIT_REPOSITORY_URL> .
 ```
-9. When prompted to provide credentials, use the credentials you work login.
+9. When prompted to provide credentials, use your corporate account.
 10. Verify that this command downloaded the source code:
 
 ![](IMG/Source.png)
