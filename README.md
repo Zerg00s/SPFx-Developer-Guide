@@ -119,7 +119,7 @@ As a result of running this command, a `.sppkg` file will be generated inside th
 
 ![](IMG/Package.png)
 
-- Open the [App Catalog](https://drps.sharepoint.com/sites/DisclosureBooking/AppCatalog/Forms/AllItems.aspx):
+- Open the [App Catalog](#):
 
 ![](IMG/Catalog.png)
 
