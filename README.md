@@ -63,7 +63,7 @@ The topics are listed in the exact order you need to study them. if you already 
 - [SharePoint Framework Tutorial 1 - HelloWorld WebPart](https://www.youtube.com/watch?v=_O2Re5uRLoo)
 
 ## Making changes in the source code
-Every time you attempt make any source code changes, make sure you pull the latest version of the source code by running this command:
+Every time you attempt to make any source code changes, make sure you pull the latest version of the source code by running this command:
 
 ```
 git pull
