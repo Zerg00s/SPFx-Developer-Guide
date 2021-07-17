@@ -77,7 +77,7 @@ npm run serve
 ```
 
 - Wait for the command to finish. It might take 1-2 minutes.
-- Open the [Hosted Workbench](https://drps.sharepoint.com/sites/DisclosureBooking/_layouts/15/workbench.aspx).
+- Open the [Hosted Workbench](https://<SITEURL>/_layouts/15/workbench.aspx).
 - Click ![](IMG/PLUS.png)
 - Add <WEBPART_NAME> webpart:
 
