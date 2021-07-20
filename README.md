@@ -11,7 +11,7 @@ This project is built with [SharePoint Framework](https://docs.microsoft.com/en-
 Source code is stored in [TODO <ADD GIT REPO URL>](#).
 
 ## Preparing a Developer's Workstation
-1.  Download and install node.js: [node-v10.24.1-win-x64.zip](https://nodejs.org/dist/latest-v10.x/node-v10.24.1-win-x64.zip) 
+1.  Download and install node.js: [node-v10.24.0-x64.msi](https://nodejs.org/dist/v10.24.0/node-v10.24.0-x64.msi) 
 1.  Download and install git for Windows: [64-bit Git for Windows Setup](https://github.com/git-for-windows/git/releases/download/v2.31.1.windows.1/Git-2.31.1-64-bit.exe).
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 1. Run the following command to install [Gulp](https://gulpjs.com/):
